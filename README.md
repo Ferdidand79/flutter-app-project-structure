@@ -1,4 +1,4 @@
-# Flutter App Project Structure
+# Flutter App Project Structure (updated 2022)
 
 Author @tosif91, source repository (https://github.com/tosif91/flutter-app-project-structure)
 
