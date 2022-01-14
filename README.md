@@ -1,6 +1,6 @@
 # Flutter App Project Structure
 
-Author @tosif91, source repository(https://github.com/tosif91/flutter-app-project-structure)
+Author @tosif91, source repository (https://github.com/tosif91/flutter-app-project-structure)
 
 This repo provide the prebuild project struture for the flutter app
 ## Features
